@@ -1,0 +1,50 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/Scenes/usamamenu.unity
+    guid: 3423004dc17ddb644af59b5d5c952d0d
+  - enabled: 0
+    path: Assets/Scenes/usama - simple.unity
+    guid: c057b3399a858f247a2f58508cb93fb2
+  - enabled: 0
+    path: Assets/Scenes/umerstart.unity
+    guid: f33d455968d13154eaa21c9c853e09a2
+  - enabled: 0
+    path: Assets/Scenes/umer.unity
+    guid: 96f73141feaa6a54c95bfee447aa97d4
+  - enabled: 1
+    path: Assets/Scenes/palindrome.unity
+    guid: 2094693b026f99c48a6525648f4d1f47
+  - enabled: 1
+    path: Assets/Scenes/G9_L1_usama - simple.unity
+    guid: ff90adc2af65c764a8b859006d957086
+  - enabled: 1
+    path: Assets/Scenes/G9_L1_usamamenu.unity
+    guid: e265d9883f191f2439f9a5f69cf9fc76
+  - enabled: 1
+    path: Assets/Scenes/G9_L2_zohaib.unity
+    guid: 65ea83a71589c6846a3f55890575aea0
+  - enabled: 1
+    path: Assets/Scenes/G9_L2_zohaibload.unity
+    guid: 67deda642183f944bb34fab03b893b65
+  - enabled: 1
+    path: Assets/Scenes/G9_L3_umer.unity
+    guid: 6e00a7a3c7892f747af4d736bab7c67b
+  - enabled: 1
+    path: Assets/Scenes/G9_L3_umerload.unity
+    guid: 9ec6598d680fdbf45a2d4c46bbc3018d
+  - enabled: 1
+    path: Assets/Scenes/G9_L4_loadpalindrome.unity
+    guid: ff0682e75413e9d42a2033f48794a26a
+  - enabled: 1
+    path: Assets/Scenes/G9_L4_palindrome.unity
+    guid: c17c0a10010fce24d8e7a895f54d9866
+  - enabled: 1
+    path: Assets/Scenes/G9_Main_Menu.unity
+    guid: 004bbed2c9d3ab643b159a93cffcedd5
+  m_configObjects: {}
